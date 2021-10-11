@@ -9,8 +9,7 @@ import org.testng.annotations.Test;
 
 import java.util.concurrent.TimeUnit;
 
-public class MainTest {
-    //
+public class MainTest {    //
 //    WebDriver driver;
 //    @Test
 //    public void testSelenium() {
@@ -39,6 +38,7 @@ public class MainTest {
 //        }
 //    }
 //}
+
     private WebDriver driver;
 
     @BeforeMethod
